@@ -1,0 +1,42 @@
+
+main{
+padding: 1em;
+
+}
+h1, h2{
+    text-align: center;
+    text-transform: uppercase;
+
+}
+footer{
+    margin-top: 8em;
+    display:flex;
+    justify-content: right;
+}
+div {
+    padding: 0px;
+    margin: 0px;
+}
+.p1{
+    display: flex;
+    
+    
+}
+.click{
+    padding-left: 4px;
+    padding-right: 4px;
+    
+}
+.click:hover{
+
+    color: blue;
+    border: 2px solid green;
+    cursor: pointer;
+    
+}
+p, .p1{
+    font-style: italic;
+}
+.imieNazwisko{
+    margin-left: 4px;
+}
